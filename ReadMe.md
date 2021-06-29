@@ -1,3 +1,8 @@
+Project in works : 29th June 2021.
+
+Spring MVC barebone with untested components! 
+
+
 Maven dependancy
 
 1. spring webmvc
